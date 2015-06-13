@@ -1,0 +1,9 @@
+{
+  "webhook": {  
+    "firebase": "https://webhook.firebaseio.com",
+    "username": "your@email.com",
+    "password": "password",
+    "secretKey": "secretkey",
+    "siteName": "sitename"
+  }
+}
